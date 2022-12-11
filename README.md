@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/_adii_shinde_" target="blank"><img src="https://img.shields.io/twitter/follow/_adii_shinde_?logo=twitter&style=for-the-badge" alt="_adii_shinde_" /></a> </p>
 
-- I'm currently in sophomore year of my undergraduate degree at Skncoe, Pune
+- I'm currently in Junior year of my undergraduate degree at Skncoe, Pune
 - Just a Student who like to Explore New Things! 
 - ⚡ being a student Programming really excites me as a learner!
 - 📫 How to reach me **adityashinde4580@gmail.com**
