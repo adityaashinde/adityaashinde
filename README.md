@@ -1,11 +1,13 @@
 <h1 align="center">Hey Folks👋, I'm Aditya Shinde</h1>
-<h3 align="center">Learner | Web Dev Enthusiast</h3>
+<h3 align="center">Student | @Skncoe| Web Dev Enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/_adii_shinde_" target="blank"><img src="https://img.shields.io/twitter/follow/_adii_shinde_?logo=twitter&style=for-the-badge" alt="_adii_shinde_" /></a> </p>
 
 - I'm currently in Junior year of my undergraduate degree at Skncoe, Pune
-- Just a Student who like to Explore New Things! 
-- ⚡ being a student Programming really excites me as a learner!
+- 🧠 Self taught developer
+- 👩‍💻 Web dev enthusiast
+- 🌱 Currently learning Core Java and Android dev
+- 💡 Building projects
 - 📫 How to reach me **adityashinde4580@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
