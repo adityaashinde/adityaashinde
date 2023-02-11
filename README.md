@@ -5,7 +5,7 @@
 
 - I'm currently in Junior year of my undergraduate degree at Skncoe, Pune
 - 🧠 Self taught developer
-- 👩‍💻 Currently learning JavaScript and REACT Js
+- 👩‍💻 Currently learning Android Developement!
 - 💡 Building projects
 - 📫 How to reach me **adityashinde4580@gmail.com**
 
