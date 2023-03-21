@@ -4,9 +4,9 @@
 <p align="left"> <a href="https://twitter.com/_adii_shinde_" target="blank"><img src="https://img.shields.io/twitter/follow/_adii_shinde_?logo=twitter&style=for-the-badge" alt="_adii_shinde_" /></a> </p>
 
 - I'm currently in Junior year of my undergraduate degree at Skncoe, Pune
-- 🧠 Self taught developer
+<!-- - 🧠 Self taught developer -->
 - 👩‍💻 Currently learning Android Developement!
-- 💡 Building projects
+<!-- - 💡 Building projects -->
 - 📫 How to reach me **adityashinde4580@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -14,7 +14,7 @@
 <a href="https://twitter.com/_adii_shinde_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_adii_shinde_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-shinde-77286121b/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bgb2t%2fczlraspsuzj12aibq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-shinde-77286121b/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bgb2t%2fczlraspsuzj12aibq%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/adii_shinde_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adii_shinde_/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/adityashinde4580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/adityashinde4580" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/https://www.hackerrank.com/adityashinde4580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/adityashinde4580" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
