@@ -5,7 +5,7 @@
 
 - I'm currently in Junior year of my undergraduate degree at Skncoe, Pune
 <!-- - 🧠 Self taught developer -->
-- 👩‍💻 Currently learning Android Developement!
+- 👩‍💻 Currently learning JAVA in parallel Android Developement!
 <!-- - 💡 Building projects -->
 - 📫 How to reach me **adityashinde4580@gmail.com**
 
