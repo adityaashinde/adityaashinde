@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/_adii_shinde_" target="blank"><img src="https://img.shields.io/twitter/follow/_adii_shinde_?logo=twitter&style=for-the-badge" alt="_adii_shinde_" /></a> </p>
 
 - I'm currently in final year of my undergraduate degree at Skncoe, Pune
-- 🧠 Self taught developer
+<!-- - 🧠 Self taught developer -->
 <!-- - 👩‍💻 Currently learning Core JAVA -->
 - 👩‍💻 Currently learning JAVA in parallel Flutter Developement! 
 - 💡 Building projects
