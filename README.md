@@ -1,5 +1,6 @@
 <h1 align="center">Hey Folks👋, I'm Aditya Shinde</h1>
-<h3 align="center">Student | @Skncoe | App Dev Enthusiast</h3>
+<h3 align="center">Java & Dart Dev on a Mission | Flutter Enthusiast | Fueled by Innovation in IT Solutions🚀 </h3>
+<h3 align="center">#Java #Flutter 🌐✨</h3>
 
 <p align="left"> <a href="https://twitter.com/_adii_shinde_" target="blank"><img src="https://img.shields.io/twitter/follow/_adii_shinde_?logo=twitter&style=for-the-badge" alt="_adii_shinde_" /></a> </p>
 
