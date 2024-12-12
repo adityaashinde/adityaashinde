@@ -1,14 +1,17 @@
 <h1 align="center">Hey Folks👋, I'm Aditya Shinde</h1>
-<h3 align="center">Java & Dart Dev on a Mission | Flutter Enthusiast | Fueled by Innovation in IT Solutions🚀 </h3>
-<h3 align="center">#Java #Flutter 🌐✨</h3>
+<h3 align="center">Aspiring Developer | Eager to Learn and Contribute | Passionate About Growth and Collaboration in Tech🚀 </h3>
+<h3 align="center">🌐✨👩‍💻🚀</h3>
+<!-- <h3 align="center">Java & Dart Dev on a Mission | Flutter Enthusiast | Fueled by Innovation in IT Solutions🚀 </h3> -->
+<!-- <h3 align="center">#Java #Flutter 🌐✨</h3> -->
 
 <p align="left"> <a href="https://twitter.com/_adii_shinde_" target="blank"><img src="https://img.shields.io/twitter/follow/_adii_shinde_?logo=twitter&style=for-the-badge" alt="_adii_shinde_" /></a> </p>
 
-- I'm currently in final year of my undergraduate degree at Skncoe, Pune
+<!-- - I'm currently in final year of my undergraduate degree at Skncoe, Pune -->
 <!-- - 🧠 Self taught developer -->
 <!-- - 👩‍💻 Currently learning Core JAVA -->
-- 👩‍💻 Currently learning JAVA in parallel Flutter Developement! 
+- A recent graduate in Electronics and Telecommunication Engineering from Sinhgad Institute, Pune, affiliated with Savitribai Phule Pune University.
 - 💡 Building projects
+- 📈 Open to opportunities that foster growth, creativity, and teamwork in the dynamic IT field.
 <!-- - 📫 How to reach me **adityashinde4580@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
